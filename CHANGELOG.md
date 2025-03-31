@@ -1,5 +1,9 @@
 
 
+## v0.2.44
+
+[compare changes](https://github.com/diizzayy/nuxt-graphql-client/compare/v0.2.43...v0.2.44)
+
 ### [0.0.34](https://github.com/Diizzayy/nuxt-graphql-client/compare/v0.0.33...v0.0.34) (2022-07-18)
 
 
